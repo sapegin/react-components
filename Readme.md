@@ -33,6 +33,10 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-codemirror](https://github.com/JedWatson/react-codemirror) — CodeMirror component.
 
+## Tables
+
+- [Reactabular](http://reactabular.js.org/) — very flexible framework to work with tables.
+
 ### Miscellaneous
 
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
