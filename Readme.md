@@ -40,23 +40,23 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ### Miscellaneous
 
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
-- [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional Webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
+- [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
 - [react-intl](https://github.com/yahoo/react-intl) — React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
 
 
 ## UI Utilites
 
-- [react-router](https://github.com/reactjs/react-router) — routing.
+- [react-router](https://github.com/ReactTraining/react-router) — routing.
 - [react-document-title](https://github.com/gaearon/react-document-title) — Declarative, nested, stateful, isomorphic document.title.
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) — declarative hotkey and focus area management.
 - [react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container.
-- [react-dnd](https://github.com/gaearon/react-dnd) — drag and Drop.
+- [react-dnd](https://github.com/react-dnd/react-dnd) — drag and Drop.
 - [react-scroll](https://github.com/fisshy/react-scroll) — scroll component.
 
 
 # Dev Tools
 
-- [react-styleguidist](https://github.com/sapegin/react-styleguidist) — Style guide generator and a workbench for developing components.
+- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) — Style guide generator and a workbench for developing components.
 
 
 ## Contributing
@@ -64,8 +64,8 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 Suggestions are welcome: just create an issue if you know something better than what I use.
 
 
-## Authors and license
+## Author and license
 
-[Artem Sapegin](http://sapegin.me/), a front-end developer at [Here](https://company.here.com/here/) and the creator of [React Styleguidist](https://github.com/sapegin/react-styleguidist). I also write about React on [my blog](http://blog.sapegin.me/).
+[Artem Sapegin](http://sapegin.me/), a frontend developer at [Here](https://here.com/en) and the creator of [React Styleguidist](https://github.com/styleguidist/react-styleguidist). I also write about React on [my blog](http://blog.sapegin.me/).
 
 CC0 1.0 Universal license, see the included [License.md](/License.md) file.
