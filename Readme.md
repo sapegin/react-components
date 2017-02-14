@@ -43,7 +43,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
 
-## UI Utilites
+## UI Utilities
 
 - [react-router](https://github.com/ReactTraining/react-router) — routing.
 - [react-document-title](https://github.com/gaearon/react-document-title) — Declarative, nested, stateful, isomorphic document.title.
@@ -54,7 +54,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [react-intl](https://github.com/yahoo/react-intl) — React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) — components for efficiently rendering large lists and tabular data.
 
-## Utilites
+## Utilities
 
 - [decko](https://github.com/developit/decko) — bind, debounce and memoize decorators.
 
