@@ -1,6 +1,6 @@
 # React Components Catalog
 
-Inspired by the [awesome-react-components](https://github.com/brillout/awesome-react-components) but lists only the components I use myself and can recommend. I believe 15 date picker components for React can’t be awesome and you still have no idea which one you should use.
+Inspired by the [awesome-react-components](https://github.com/brillout/awesome-react-components) but lists only the components I or [contributors](https://github.com/sapegin/react-components/graphs/contributors) use themeselves and can recommend. I believe 15 date picker components for React can’t be awesome and you still have no idea which one you should use.
 
 
 ## UI Components
