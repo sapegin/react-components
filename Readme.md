@@ -8,6 +8,8 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ### Component Libraries
 
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) — great project but the CSS is from original Bootstrap, so never use in a project with custom design.
+- [material-ui](http://www.material-ui.com/) — a set of React Components that Implement Google's Material Design
+- [semantic-ui-react](http://react.semantic-ui.com/introduction) — Semantic is a framework that helps create beautiful, responsive layouts
 
 ### Select
 
