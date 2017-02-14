@@ -39,16 +39,12 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [Reactabular](http://reactabular.js.org/) — very flexible framework to work with tables.
 
-### Presentations
-
-- [Spectacle](https://github.com/FormidableLabs/spectacle) — React based Presentation Library
-
 ### Miscellaneous
 
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
 - [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
-- [Griddle](http://griddlegriddle.github.io/Griddle/index.html) — Griddle is a simple grid component for use with React.
+- [Spectacle](https://github.com/FormidableLabs/spectacle) — React based Presentation Library
 
 ## UI Utilities
 
