@@ -56,7 +56,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 ## Utilites
 
-- [decko](https://github.com/developit/decko) — bind, debounce and memoize decorators
+- [decko](https://github.com/developit/decko) — bind, debounce and memoize decorators.
 
 ## Dev Tools
 
