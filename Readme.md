@@ -54,11 +54,11 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [react-intl](https://github.com/yahoo/react-intl) — React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) — components for efficiently rendering large lists and tabular data.
 
-# Utilites
+## Utilites
 
 - [decko](https://github.com/developit/decko) — bind, debounce and memoize decorators
 
-# Dev Tools
+## Dev Tools
 
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) — Style guide generator and a workbench for developing components.
 
