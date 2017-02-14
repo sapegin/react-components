@@ -33,7 +33,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-codemirror](https://github.com/JedWatson/react-codemirror) — CodeMirror component.
 
-## Tables
+### Tables
 
 - [Reactabular](http://reactabular.js.org/) — very flexible framework to work with tables.
 
@@ -41,8 +41,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
 - [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
-- [react-intl](https://github.com/yahoo/react-intl) — React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
-
+- [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
 
 ## UI Utilites
 
@@ -52,7 +51,12 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container.
 - [react-dnd](https://github.com/react-dnd/react-dnd) — drag and Drop.
 - [react-scroll](https://github.com/fisshy/react-scroll) — scroll component.
+- [react-intl](https://github.com/yahoo/react-intl) — React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) — components for efficiently rendering large lists and tabular data.
 
+# Utilites
+
+- [decko](https://github.com/developit/decko) — bind, debounce and memoize decorators
 
 # Dev Tools
 
