@@ -8,6 +8,8 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ### Component Libraries
 
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) — great project but the CSS is from original Bootstrap, so never use in a project with custom design.
+- [material-ui](http://www.material-ui.com/) — a set of React Components that Implement Google's Material Design
+- [semantic-ui-react](http://react.semantic-ui.com/introduction) — Semantic is a framework that helps create beautiful, responsive layouts
 
 ### Select
 
@@ -42,6 +44,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
 - [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
+- [Spectacle](https://github.com/FormidableLabs/spectacle) — React based Presentation Library
 
 ## UI Utilities
 
