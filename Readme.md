@@ -65,6 +65,9 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) — Style guide generator and a workbench for developing components.
 
+## You may also like
+
+* [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet)
 
 ## Contributing
 
