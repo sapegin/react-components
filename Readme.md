@@ -42,7 +42,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ### Miscellaneous
 
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
-- [markdown-to-react-components](https://github.com/christianalfoni/markdown-to-react-components) — Markdown rendering. Generates real React components instead of HTML string, based on `marked`, do not require additional webpack configuration (e.g. `json-loader` required by [markdown-react-js](https://github.com/alexkuz/markdown-react-js) and [remark-react](https://github.com/mapbox/remark-react)).
+- [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — Markdown rendering (#1).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
 - [Spectacle](https://github.com/FormidableLabs/spectacle) — React based presentation library.
 
