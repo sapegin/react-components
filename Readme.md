@@ -2,10 +2,9 @@
 
 Inspired by the [awesome-react-components](https://github.com/brillout/awesome-react-components) but lists only the components I or [contributors](https://github.com/sapegin/react-components/graphs/contributors) use themeselves and can recommend. I believe 15 date picker components for React can’t be awesome and you still have no idea which one you should use.
 
+## UI components
 
-## UI Components
-
-### Component Libraries
+### Component libraries
 
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) — great project but the CSS is from original Bootstrap, so never use in a project with custom design.
 - [material-ui](http://www.material-ui.com/) — components that implement Google’s Material Design.
@@ -15,7 +14,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-select](https://github.com/JedWatson/react-select) — filtering, multiple selection, etc.
 
-### Date/time Picker
+### Date/time picker
 
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - flexible date picker.
 
@@ -23,15 +22,15 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-autosuggest](https://github.com/moroshko/react-autosuggest) — WAI-ARIA compliant.
 
-### Autosize Textarea
+### Autosize textarea
 
 - [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - replacement for the textarea element which automatically resizes textarea as content changes.
 
-### Masked Input
+### Masked input
 
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) - input masking with attention to small usability details with cursor position, copy-paste, etc.
 
-### Rich Text Editing
+### Rich text editing
 
 - [react-codemirror](https://github.com/JedWatson/react-codemirror) — CodeMirror component.
 
@@ -44,9 +43,9 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
 - [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — Markdown rendering ([#1](https://github.com/sapegin/react-components/issues/1)).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
-- [Spectacle](https://github.com/FormidableLabs/spectacle) — React based presentation library.
+- [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
 
-## UI Utilities
+## UI utilities
 
 - [react-router](https://github.com/ReactTraining/react-router) — routing.
 - [react-document-title](https://github.com/gaearon/react-document-title) — Declarative, nested, stateful, isomorphic document.title.
@@ -61,9 +60,13 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [decko](https://github.com/developit/decko) — bind, debounce and memoize decorators.
 
-## Dev Tools
+## Dev tools
 
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) — Style guide generator and a workbench for developing components.
+
+## Other tools
+
+- [Spectacle](https://github.com/FormidableLabs/spectacle) — React based presentation library.
 
 ## You may also like
 
