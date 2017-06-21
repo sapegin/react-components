@@ -48,7 +48,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ## Hotkeys
 
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) — declarative hotkey and focus area management.
-- [react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys
+- [react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys.
 
 ## UI utilities
 
