@@ -45,11 +45,15 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
 - [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
 
+## Hotkeys
+
+- [react-hotkeys](https://github.com/chrisui/react-hotkeys) — declarative hotkey and focus area management.
+- [react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys
+
 ## UI utilities
 
 - [react-router](https://github.com/ReactTraining/react-router) — routing.
 - [react-document-title](https://github.com/gaearon/react-document-title) — Declarative, nested, stateful, isomorphic document.title.
-- [react-hotkeys](https://github.com/chrisui/react-hotkeys) — declarative hotkey and focus area management.
 - [react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container.
 - [react-dnd](https://github.com/react-dnd/react-dnd) — drag and Drop.
 - [react-scroll](https://github.com/fisshy/react-scroll) — scroll component.
