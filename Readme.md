@@ -16,7 +16,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 ### Date/time picker
 
-- [react-day-picker](https://github.com/gpbl/react-day-picker) - flexible date picker.
+- [react-day-picker](https://github.com/gpbl/react-day-picker) — flexible date picker.
 
 ### Autocomplete
 
@@ -24,11 +24,11 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 ### Autosize textarea
 
-- [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) - replacement for the textarea element which automatically resizes textarea as content changes.
+- [react-textarea-autosize](https://github.com/andreypopp/react-textarea-autosize) — replacement for the textarea element which automatically resizes textarea as content changes.
 
 ### Masked input
 
-- [react-input-mask](https://github.com/sanniassin/react-input-mask) - input masking with attention to small usability details with cursor position, copy-paste, etc.
+- [react-input-mask](https://github.com/sanniassin/react-input-mask) — input masking with attention to small usability details with cursor position, copy-paste, etc.
 
 ### Rich text editing
 
