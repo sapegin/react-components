@@ -13,6 +13,7 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ### Select
 
 - [react-select](https://github.com/JedWatson/react-select) — filtering, multiple selection, etc.
+- [react-data-menu](https://github.com/dkozar/react-data-menu) - smart data-driven menu rendered in an overlay, never clipped by other components or screen edges.
 
 ### Date/time picker
 
