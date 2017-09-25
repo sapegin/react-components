@@ -44,17 +44,16 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 - [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — Markdown rendering ([#1](https://github.com/sapegin/react-components/issues/1)).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
 - [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
+- [react-spaceman](https://github.com/sapegin/react-spaceman) — manage whitespace inside components and between components.
 
 ## Hotkeys
 
 - [react-hotkeys](https://github.com/chrisui/react-hotkeys) — declarative hotkey and focus area management.
-- [react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys.
 
 ## UI utilities
 
 - [react-router](https://github.com/ReactTraining/react-router) — routing.
 - [react-document-title](https://github.com/gaearon/react-document-title) — Declarative, nested, stateful, isomorphic document.title.
-- [react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container.
 - [react-dnd](https://github.com/react-dnd/react-dnd) — drag and Drop.
 - [react-scroll](https://github.com/fisshy/react-scroll) — scroll component.
 - [react-intl](https://github.com/yahoo/react-intl) — React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
@@ -71,6 +70,13 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ## Other tools
 
 - [Spectacle](https://github.com/FormidableLabs/spectacle) — React based presentation library.
+
+## Removed components
+
+These components were removed from the list, I can no longer recommend them. Feel free to send a pull request if the issue was fixed.
+
+- ~~[react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container~~ abandoned
+- ~~[react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys~~ react-hotkeys supports global hotkeys now
 
 ## You may also like
 
