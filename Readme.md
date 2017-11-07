@@ -30,9 +30,9 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-input-mask](https://github.com/sanniassin/react-input-mask) — input masking with attention to small usability details with cursor position, copy-paste, etc.
 
-### Rich text editing
+### Rich text and code editing
 
-- [react-codemirror](https://github.com/JedWatson/react-codemirror) — CodeMirror component.
+- [react-codemirror2](https://github.com/scniro/react-codemirror2) — CodeMirror component.
 
 ### Tables
 
@@ -77,6 +77,7 @@ These components were removed from the list, I can no longer recommend them. Fee
 
 - ~~[react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container~~ abandoned
 - ~~[react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys~~ react-hotkeys supports global hotkeys now
+- ~~[react-codemirror](https://github.com/JedWatson/react-codemirror) — CodeMirror component~~ — replaced with react-codemirror2
 
 ## You may also like
 
