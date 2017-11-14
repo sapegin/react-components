@@ -34,6 +34,13 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 - [react-codemirror2](https://github.com/scniro/react-codemirror2) — CodeMirror component.
 
+### Markdown
+
+See [#1](https://github.com/sapegin/react-components/issues/1) for discussion.
+
+- [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — based on Remark, supports HTML and tables.
+- [simple-markdown](https://github.com/Khan/simple-markdown) — very small (4 KB, ~10 times smaller than alternatives), no HTML support.
+
 ### Tables
 
 - [Reactabular](http://reactabular.js.org/) — very flexible framework to work with tables.
@@ -41,7 +48,6 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 ### Miscellaneous
 
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
-- [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — Markdown rendering ([#1](https://github.com/sapegin/react-components/issues/1)).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
 - [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
 - [react-spaceman](https://github.com/sapegin/react-spaceman) — manage whitespace inside components and between components.
