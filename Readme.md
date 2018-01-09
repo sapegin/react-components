@@ -38,8 +38,8 @@ Inspired by the [awesome-react-components](https://github.com/brillout/awesome-r
 
 See [#1](https://github.com/sapegin/react-components/issues/1) for discussion.
 
-- [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — based on Remark, supports HTML and tables.
 - [simple-markdown](https://github.com/Khan/simple-markdown) — very small (4 KB, ~10 times smaller than alternatives), no HTML support.
+- [markdown-to-jsx](https://probablyup.github.io/markdown-to-jsx/) — a simple-markdown fork with HTML support, GFM task lists and syntax highlight.
 
 ### Tables
 
