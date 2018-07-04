@@ -47,9 +47,10 @@ See [#1](https://github.com/sapegin/react-components/issues/1) for discussion.
 
 ### Miscellaneous
 
+- [Formik](https://github.com/jaredpalmer/formik) — form state management
+- [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
-- [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
 - [react-spaceman](https://github.com/sapegin/react-spaceman) — manage whitespace inside components and between components.
 
 ## Hotkeys
