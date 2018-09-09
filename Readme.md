@@ -45,13 +45,19 @@ See [#1](https://github.com/sapegin/react-components/issues/1) for discussion.
 
 - [Reactabular](http://reactabular.js.org/) — very flexible framework to work with tables.
 
+### Grids and whitespace
+
+- [react-spaceman](https://github.com/sapegin/react-spaceman) — manage whitespace inside components and between components.
+- [Rebass Grid](https://rebassjs.org/grid/) — responsive React grid system built with styled-components
+- [Stack Styled](https://sapegin.github.io/stack-styled/) — make stack layouts easy
+
 ### Miscellaneous
 
 - [Formik](https://github.com/jaredpalmer/formik) — form state management
+- [react-group](https://sapegin.github.io/react-group/) — render React children with a separator
 - [react-icons](http://gorangajic.github.io/react-icons/) — Font Awesome, Material icons, etc. as React components.
 - [react-pagify](https://github.com/bebraw/react-pagify) — very flexible but simple pagination, has a [Bootstrap skin](https://github.com/sapegin/react-pagify-preset-bootstrap).
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) — drag-and-drop sortable component for nested data and hierarchies.
-- [react-spaceman](https://github.com/sapegin/react-spaceman) — manage whitespace inside components and between components.
 
 ## Hotkeys
 
