@@ -65,7 +65,7 @@ See [#1](https://github.com/sapegin/react-components/issues/1) for discussion.
 
 ## UI utilities
 
-- [react-router](https://github.com/ReactTraining/react-router) — routing.
+- [Reach Router](https://reach.tech/router) — routing.
 - [react-document-title](https://github.com/gaearon/react-document-title) — Declarative, nested, stateful, isomorphic document.title.
 - [react-dnd](https://github.com/react-dnd/react-dnd) — drag and Drop.
 - [react-scroll](https://github.com/fisshy/react-scroll) — scroll component.
@@ -91,6 +91,7 @@ These components were removed from the list, I can no longer recommend them. Fee
 - ~~[react-dimensions](https://github.com/digidem/react-dimensions) — higher-order component to get dimensions of container~~ abandoned
 - ~~[react-combo-keys](https://github.com/SamyPesse/react-combo-keys) — global hotkeys~~ react-hotkeys supports global hotkeys now
 - ~~[react-codemirror](https://github.com/JedWatson/react-codemirror) — CodeMirror component~~ — replaced with react-codemirror2
+- ~~[react-router](https://github.com/ReactTraining/react-router) — routing~~ — replaced with Reach Router
 
 ## You may also like
 
