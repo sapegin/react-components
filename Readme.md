@@ -2,6 +2,8 @@
 
 Inspired by the [awesome-react-components](https://github.com/brillout/awesome-react-components) but lists only the components I or [contributors](https://github.com/sapegin/react-components/graphs/contributors) use themeselves and can recommend. I believe 15 date picker components for React can’t be awesome and you still have no idea which one you should use.
 
+[![Washing your code. A book on clean code for frontend developers](https://sapegin.me/images/washing-code-github.jpg)](https://sapegin.me/book/)
+
 ## UI components
 
 ### Component libraries
@@ -103,6 +105,6 @@ Suggestions are welcome: just create an issue if you know something better than 
 
 
 ## Author and license
-[Artem Sapegin](http://sapegin.me/), a frontend engineer at [Omio](https://omio.com/) and the creator of [React Styleguidist](https://react-styleguidist.js.org/). I also write about frontend at [my blog](https://blog.sapegin.me/).
+[Artem Sapegin](http://sapegin.me/), a frontend engineer at Stage+ and the creator of [React Styleguidist](https://react-styleguidist.js.org/). I also write about frontend at [my blog](https://blog.sapegin.me/).
 
 CC0 1.0 Universal license, see the included [License.md](/License.md) file.
